@@ -1,4 +1,4 @@
-# ML- Basic Linear Regression model - From Scratch using python.
+# ML- Basic Linear Regression model - From Scratch using Python3.
 
 ## Learning objectives
 
@@ -7,26 +7,19 @@
 
 ## Description
 
-In this repository, I show how to implement a very basic linear regression model using python python. I intentionally didn't used OOP programming because there is no need for this simple task, but anyone could give it a try as an extra exercise.
+In this repository, I show how to implement a very basic linear regression model using python python. I intentionally didn't use OOP programming because there is no need for this simple task, but anyone could give it a try as an extra exercise.
 
 
 This is how the model learns through the training phase:
 
-At the begining, the weights and bias (parameters) are initialized to random values. (Actually there is a lot to say about how to correctly initialize the the weights at the begining but let make it simple for this task.)
+At the beginning, the weights and bias (parameters) are initialized to random values. (Actually, there is a lot to say about how to correctly initialize the weights at the beginning but let's make it simple for this task.)
 
 ![screen](regression_learning.gif)
 
 
-### General Good Practice
-
-- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that I used correct flow [Gitflow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
-- Make sure that I documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
-
-
 ### Task requirements
 
-- This task does not require any libraries requirements excepts numpy and matplotlib.
+- This task does not require any library requirements except numpy and matplotlib.
 
 so be sure to have numpy and matplotlib on your system otherwise run this on your terminal:
 
