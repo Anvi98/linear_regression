@@ -7,7 +7,7 @@
 
 ## Description
 
-In this repository, I show how to implement a very basic linear regression model using python python. I intentionally didn't use OOP programming because there is no need for this simple task, but anyone could give it a try as an extra exercise.
+In this repository, I show how to implement a very basic linear regression model using Python. I intentionally didn't use OOP programming because there is no need for this simple task, but anyone could give it a try as an extra exercise.
 
 
 This is how the model learns through the training phase:
